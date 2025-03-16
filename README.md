@@ -1,6 +1,6 @@
 # effective-parakeet
 # contents
-Here, I've text-extracted the location of the 4,111 water quality monitoring stations of India from the CPCB website. 
+Here, I've text-extracted the location of the 4,111 water quality monitoring stations of India from the CPCB website. Also available as a geopackage and in .shp format.
 
 # methodology
 
